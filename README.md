@@ -1,5 +1,8 @@
 # Music-player-python
-This is a simple project in Python, in which I have created a good looking Music player with Tkinter.
+
+A Music Player Project, in this project I have created a good-looking music player with the help of Tkinter in Python. I have used the Pygame library, which is used for the designing of computer graphics and sound libraries.
+
+AIM: Aim of this project is to create a Music player of own and use them on the Desktop, even share it with friends and family to use it in their system.
 
 For this I have used different libraries.
 
