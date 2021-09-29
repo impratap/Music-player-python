@@ -6,43 +6,43 @@ AIM: Aim of this project is to create a Music player of own and use them on the 
 
 For this I have used different libraries.
 
-import os
+## Library
 
-imported os to minimize the size of text of the song name at statusbar...
+* OS
+* Tkinter
+* Messagebox from tkintre
+* Fielddialog from tkinter
+* MP3 from mutagem.mp3
+* Threading
+* Time
+* TTk from tkinter
+* Ttkthemes
+* Pygame
 
-from tkinter import * 
+ os : imported os to minimize the size of text of the song name at statusbar...
 
-tkinter is for GUI, we have to import 'tkinter' to work on graphics
+Tkinter:tkinter is for GUI, we have to import 'tkinter' to work on graphics
 
-import tkinter.messagebox 
+Messagebox: this is use to show any kind of message
 
-this is use to show any kind of message
+Filedialog: this is to browse and choose any file which we want to play...
 
-from tkinter import filedialog 
+Mutagen.mp3:  This is for to control the flow of mp3 file...
 
-this is to browse and choose any file which we want to play...
+Threading: This is to let the program look all over or don't get hang... 
 
-from mutagen.mp3 import MP3 
+Time: this is to use time_length and current Time label...
 
-This is for to control the flow of mp3 file...
+Ttkthemes: This is for themes
 
-import threading 
+Pygame: It is uses for desigining of computer graphics and sound libraries 
 
-This is to let the program look all over or don't get hang... 
+## Built In
 
-import time 
+* Python
+* MySql
 
-this is to use time_length and current Time label...
-
-from tkinter import ttk
-
-from ttkthemes import themed_tk as tk  
-
-This is for themes
-
-from pygame import mixer 
-
-It is uses for desigining of computer graphics and sound libraries 
+## Screenshot
 
 ![mmmm](https://user-images.githubusercontent.com/33418077/132460622-2fae13d8-3d8e-4372-aadb-56c2a1397ea6.PNG)
 
